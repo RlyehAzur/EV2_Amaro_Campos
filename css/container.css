@@ -1,0 +1,8 @@
+.container-custom {
+    background-color: #ffffffb6; /* color de fondo */
+    padding: 2rem; /* espaciado interior */
+    border-radius: 12px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* sombra */
+    max-width: 1320px;
+    margin: auto; /* margen */
+  }

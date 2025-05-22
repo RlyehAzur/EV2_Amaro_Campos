@@ -1,0 +1,17 @@
+/* footer */
+.footer-custom {
+    background-color: #343a40; 
+    position: relative;
+    width: 100%;
+    bottom: 0;
+  }
+
+.footer-custom a {
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+
+.footer-custom a:hover {
+    color: #ffc107; 
+  }
+  
